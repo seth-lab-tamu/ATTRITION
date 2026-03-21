@@ -1,0 +1,235 @@
+For testing set patterns
+Entered pid 2
+Entered pid 1
+Entered pid 5
+Entered pid 0
+Entered pid 13
+Entered pid 3
+Entered pid 12
+Entered pid 20
+Runtime for pid 1 :  0.29728078842163086  seconds
+Entered pid 18
+Entered pid 4
+Runtime for pid 2 :  0.4553492069244385  seconds
+Entered pid 9
+Entered pid 6
+Entered pid 10
+Entered pid 19
+Entered pid 11
+Runtime for pid 5 :  0.2814617156982422  seconds
+Runtime for pid 0 :  0.2894470691680908  seconds
+Entered pid 32
+Entered pid 27
+Entered pid 15
+Entered pid 41
+Entered pid 29
+Entered pid 8
+Runtime for pid 13 :  0.33019137382507324  seconds
+Entered pid 14
+Runtime for pid 3 :  0.31453895568847656  seconds
+Entered pid 7
+Runtime for pid 12 :  0.32497715950012207  seconds
+Entered pid 24
+Entered pid 49
+Runtime for pid 4 :  0.3037686347961426  seconds
+Runtime for pid 18 :  0.3312864303588867  seconds
+Runtime for pid 19 :  0.25006103515625  seconds
+Entered pid 48
+Runtime for pid 9 :  0.3091926574707031  seconds
+Runtime for pid 6 :  0.29925060272216797  seconds
+Runtime for pid 20 :  0.40962648391723633  seconds
+Entered pid 16
+Entered pid 47
+Entered pid 31
+Entered pid 44
+Runtime for pid 10 :  0.36292338371276855  seconds
+Runtime for pid 11 :  0.33276820182800293  seconds
+Entered pid 38
+Entered pid 51
+Entered pid 26
+Runtime for pid 32 :  0.30866456031799316  seconds
+Entered pid 33
+Entered pid 55
+Entered pid 54
+Entered pid 17
+Entered pid 34
+Runtime for pid 15 :  0.31637120246887207  seconds
+Entered pid 62
+Runtime for pid 41 :  0.31568360328674316  seconds
+Entered pid 60
+Entered pid 45
+Runtime for pid 27 :  0.3588531017303467  seconds
+Entered pid 43
+Entered pid 50
+Entered pid 36
+Entered pid 53
+Runtime for pid 29 :  0.36841535568237305  seconds
+Entered pid 25
+Runtime for pid 8 :  0.36586689949035645  seconds
+Entered pid 63
+Runtime for pid 14 :  0.37947702407836914  seconds
+Runtime for pid 7 :  0.35799670219421387  seconds
+Entered pid 46
+Runtime for pid 24 :  0.33995604515075684  seconds
+Entered pid 52
+Runtime for pid 48 :  0.3184831142425537  seconds
+Runtime for pid 49 :  0.3773922920227051  seconds
+Entered pid 39
+Entered pid 57
+Runtime for pid 16 :  0.33115053176879883  seconds
+Runtime for pid 44 :  0.2811923027038574  seconds
+Runtime for pid 47 :  0.32054638862609863  seconds
+Runtime for pid 31 :  0.3177483081817627  seconds
+Entered pid 21
+Runtime for pid 38 :  0.28491663932800293  seconds
+Entered pid 28
+Entered pid 30
+Entered pid 23
+Entered pid 22
+Entered pid 35
+Runtime for pid 33 :  0.31634044647216797  seconds
+Runtime for pid 51 :  0.366351842880249  seconds
+Runtime for pid 17 :  0.3209097385406494  seconds
+Entered pid 37
+Runtime for pid 54 :  0.3425467014312744  seconds
+Runtime for pid 55 :  0.35492682456970215  seconds
+Entered pid 40
+Runtime for pid 34 :  0.3595855236053467  seconds
+Runtime for pid 60 :  0.3321964740753174  seconds
+Runtime for pid 36 :  0.30243515968322754  seconds
+Runtime for pid 62 :  0.35013914108276367  seconds
+Runtime for pid 45 :  0.3243374824523926  seconds
+Runtime for pid 43 :  0.325148344039917  seconds
+Runtime for pid 26 :  0.4073817729949951  seconds
+Runtime for pid 50 :  0.3354654312133789  seconds
+Runtime for pid 53 :  0.3327324390411377  seconds
+Entered pid 61
+Runtime for pid 25 :  0.32932376861572266  seconds
+Runtime for pid 46 :  0.31250762939453125  seconds
+Entered pid 56
+Runtime for pid 52 :  0.3153524398803711  seconds
+Runtime for pid 39 :  0.32051992416381836  seconds
+Entered pid 58
+Entered pid 42
+Runtime for pid 21 :  0.3441658020019531  seconds
+Runtime for pid 57 :  0.3840911388397217  seconds
+Runtime for pid 23 :  0.30818867683410645  seconds
+Runtime for pid 30 :  0.3632636070251465  seconds
+Runtime for pid 28 :  0.36800336837768555  seconds
+Runtime for pid 37 :  0.31263065338134766  seconds
+Runtime for pid 35 :  0.35614442825317383  seconds
+Runtime for pid 40 :  0.30580997467041016  seconds
+Runtime for pid 22 :  0.4138321876525879  seconds
+Runtime for pid 61 :  0.321885347366333  seconds
+Runtime for pid 56 :  0.30979204177856445  seconds
+Runtime for pid 63 :  0.6789696216583252  seconds
+Entered pid 59
+Runtime for pid 58 :  0.32276439666748047  seconds
+Runtime for pid 42 :  0.33421921730041504  seconds
+Runtime for pid 59 :  0.29143714904785156  seconds
+Global Runtime:  11.313128471374512  seconds
+Technique: DETERRENT
+Num_pats: 1511
+Benchmark: c5315
+Total number of Trojans: 100
+For 0 trigger activated!
+For 1 trigger activated!
+For 2 trigger activated!
+For 3 trigger activated!
+For 4 trigger activated!
+For 5 trigger activated!
+For 6 trigger activated!
+For 7 trigger activated!
+For 8 trigger activated!
+For 9 trigger activated!
+For 10 trigger activated!
+For 11 trigger activated!
+For 12 trigger activated!
+For 13 trigger activated!
+For 14 trigger activated!
+For 15 trigger activated!
+For 16 trigger activated!
+For 17 trigger activated!
+For 18 trigger activated!
+For 19 trigger activated!
+For 20 trigger activated!
+For 21 trigger activated!
+For 22 trigger activated!
+For 23 trigger activated!
+For 24 trigger activated!
+For 25 trigger activated!
+For 26 trigger activated!
+For 27 trigger activated!
+For 28 trigger activated!
+For 29 trigger activated!
+For 30 trigger activated!
+For 31 trigger activated!
+For 32 trigger activated!
+For 33 trigger activated!
+For 34 trigger activated!
+For 35 trigger activated!
+For 36 trigger activated!
+For 37 trigger activated!
+For 38 trigger activated!
+For 39 trigger activated!
+For 40 trigger activated!
+For 41 trigger activated!
+For 42 trigger activated!
+For 43 trigger activated!
+For 44 trigger activated!
+For 45 trigger activated!
+For 46 trigger activated!
+For 47 trigger activated!
+For 48 trigger activated!
+For 49 trigger activated!
+For 50 trigger activated!
+For 51 trigger activated!
+For 52 trigger activated!
+For 53 trigger activated!
+For 54 trigger activated!
+For 55 trigger activated!
+For 56 trigger activated!
+For 57 trigger activated!
+For 58 trigger activated!
+For 59 trigger activated!
+For 60 trigger activated!
+For 61 trigger activated!
+For 62 trigger activated!
+For 63 trigger activated!
+For 64 trigger activated!
+For 65 trigger activated!
+For 66 trigger activated!
+For 67 trigger activated!
+For 68 trigger activated!
+For 69 trigger activated!
+For 70 trigger activated!
+For 72 trigger activated!
+For 73 trigger activated!
+For 74 trigger activated!
+For 75 trigger activated!
+For 76 trigger activated!
+For 77 trigger activated!
+For 78 trigger activated!
+For 79 trigger activated!
+For 80 trigger activated!
+For 81 trigger activated!
+For 82 trigger activated!
+For 83 trigger activated!
+For 84 trigger activated!
+For 85 trigger activated!
+For 86 trigger activated!
+For 87 trigger activated!
+For 88 trigger activated!
+For 89 trigger activated!
+For 90 trigger activated!
+For 91 trigger activated!
+For 92 trigger activated!
+For 93 trigger activated!
+For 94 trigger activated!
+For 95 trigger activated!
+For 96 trigger activated!
+For 97 trigger activated!
+For 98 trigger activated!
+For 99 trigger activated!
+Trigger activation rate: 99%
+Attack success rate: 1%

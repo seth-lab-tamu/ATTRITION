@@ -1,0 +1,305 @@
+Technique: TrojRL
+Benchmark: c6288
+Number of test patterns: 2145
+top_k: 30
+For original netlist
+For Trojan netlist number 3
+For Trojan netlist number 2
+For Trojan netlist number 7
+For Trojan netlist number 9
+For Trojan netlist number 11
+For Trojan netlist number 14
+For Trojan netlist number 17
+For Trojan netlist number 13
+For Trojan netlist number 20
+For Trojan netlist number 0
+For Trojan netlist number 1
+For Trojan netlist number 6
+For Trojan netlist number 27
+For Trojan netlist number 10
+For Trojan netlist number 12
+For Trojan netlist number 19
+For Trojan netlist number 16
+For Trojan netlist number 34
+For Trojan netlist number 18
+For Trojan netlist number 29
+For Trojan netlist number 21
+For Trojan netlist number 45
+For Trojan netlist number 22
+For Trojan netlist number 23
+For Trojan netlist number 44
+For Trojan netlist number 4
+For Trojan netlist number 8
+For Trojan netlist number 5
+For Trojan netlist number 37
+For Trojan netlist number 30
+For Trojan netlist number 25
+For Trojan netlist number 49
+For Trojan netlist number 48
+For Trojan netlist number 40
+For Trojan netlist number 43
+For Trojan netlist number 42
+For Trojan netlist number 41
+For Trojan netlist number 47
+For Trojan netlist number 15
+For Trojan netlist number 51
+For Trojan netlist number 63
+For Trojan netlist number 46
+For Trojan netlist number 53
+For Trojan netlist number 50
+For Trojan netlist number 67
+For Trojan netlist number 65
+For Trojan netlist number 66
+For Trojan netlist number 33
+For Trojan netlist number 32
+For Trojan netlist number 35
+For Trojan netlist number 28
+For Trojan netlist number 73
+For Trojan netlist number 61
+For Trojan netlist number 38
+For Trojan netlist number 31
+For Trojan netlist number 39
+For Trojan netlist number 26
+For Trojan netlist number 52
+For Trojan netlist number 59
+For Trojan netlist number 24
+For Trojan netlist number 36
+For Trojan netlist number 76
+For Trojan netlist number 57
+For Trojan netlist number 60
+For Trojan netlist number 68
+For Trojan netlist number 79
+For Trojan netlist number 58
+For Trojan netlist number 74
+For Trojan netlist number 69
+For Trojan netlist number 62
+For Trojan netlist number 71
+For Trojan netlist number 77
+For Trojan netlist number 70
+For Trojan netlist number 83
+For Trojan netlist number 78
+For Trojan netlist number 80
+For Trojan netlist number 81
+For Trojan netlist number 98
+For Trojan netlist number 64
+For Trojan netlist number 91
+For Trojan netlist number 55
+For Trojan netlist number 54
+For Trojan netlist number 56
+For Trojan netlist number 75
+For Trojan netlist number 72
+For Trojan netlist number 93
+For Trojan netlist number 99
+For Trojan netlist number 90
+For Trojan netlist number 96
+For Trojan netlist number 82
+For Trojan netlist number 87
+For Trojan netlist number 95
+For Trojan netlist number 88
+For Trojan netlist number 97
+For Trojan netlist number 84
+For Trojan netlist number 92
+For Trojan netlist number 85
+For Trojan netlist number 89
+For Trojan netlist number 86
+For Trojan netlist number 94
+For 94 trigger activated!
+For 94 Trojan detected!
+For 97 trigger activated!
+For 97 Trojan detected!
+For 83 trigger activated!
+For 83 Trojan detected!
+For 98 trigger activated!
+For 98 Trojan detected!
+For 91 trigger activated!
+For 91 Trojan detected!
+For 99 trigger activated!
+For 99 Trojan detected!
+For 89 trigger activated!
+For 89 Trojan detected!
+For 72 trigger activated!
+For 72 Trojan detected!
+For 92 trigger activated!
+For 92 Trojan detected!
+For 95 trigger activated!
+For 95 Trojan detected!
+For 67 trigger activated!
+For 67 Trojan detected!
+For 90 trigger activated!
+For 90 Trojan detected!
+For 76 trigger activated!
+For 76 Trojan detected!
+For 39 trigger activated!
+For 39 Trojan detected!
+For 74 trigger activated!
+For 74 Trojan detected!
+For 93 trigger activated!
+For 93 Trojan detected!
+For 96 trigger activated!
+For 96 Trojan detected!
+For 84 trigger activated!
+For 84 Trojan detected!
+For 87 trigger activated!
+For 87 Trojan detected!
+For 71 trigger activated!
+For 71 Trojan detected!
+For 79 trigger activated!
+For 79 Trojan detected!
+For 82 trigger activated!
+For 82 Trojan detected!
+For 77 trigger activated!
+For 77 Trojan detected!
+For 57 trigger activated!
+For 57 Trojan detected!
+For 81 trigger activated!
+For 81 Trojan detected!
+For 88 trigger activated!
+For 88 Trojan detected!
+For 53 trigger activated!
+For 53 Trojan detected!
+For 5 trigger activated!
+For 5 Trojan detected!
+For 86 trigger activated!
+For 86 Trojan detected!
+For 52 trigger activated!
+For 52 Trojan detected!
+For 68 trigger activated!
+For 68 Trojan detected!
+For 23 trigger activated!
+For 23 Trojan detected!
+For 85 trigger activated!
+For 85 Trojan detected!
+For 24 trigger activated!
+For 66 trigger activated!
+For 24 Trojan detected!
+For 66 Trojan detected!
+For 80 trigger activated!
+For 80 Trojan detected!
+For 63 trigger activated!
+For 63 Trojan detected!
+For 31 trigger activated!
+For 31 Trojan detected!
+For 20 trigger activated!
+For 20 Trojan detected!
+For 70 trigger activated!
+For 70 Trojan detected!
+For 4 trigger activated!
+For 4 Trojan detected!
+For 64 trigger activated!
+For 64 Trojan detected!
+For 25 trigger activated!
+For 25 Trojan detected!
+For 6 trigger activated!
+For 6 Trojan detected!
+For 75 trigger activated!
+For 75 Trojan detected!
+For 62 trigger activated!
+For 62 Trojan detected!
+For 56 trigger activated!
+For 56 Trojan detected!
+For 33 trigger activated!
+For 78 trigger activated!
+For 33 Trojan detected!
+For 78 Trojan detected!
+For 61 trigger activated!
+For 61 Trojan detected!
+For 50 trigger activated!
+For 50 Trojan detected!
+For 42 trigger activated!
+For 42 Trojan detected!
+For 22 trigger activated!
+For 22 Trojan detected!
+For 0 trigger activated!
+For 0 Trojan detected!
+For 60 trigger activated!
+For 60 Trojan detected!
+For 37 trigger activated!
+For 48 trigger activated!
+For 37 Trojan detected!
+For 48 Trojan detected!
+For 69 trigger activated!
+For 69 Trojan detected!
+For 7 trigger activated!
+For 7 Trojan detected!
+For 26 trigger activated!
+For 26 Trojan detected!
+For 8 trigger activated!
+For 8 Trojan detected!
+For 46 trigger activated!
+For 46 Trojan detected!
+For 49 trigger activated!
+For 49 Trojan detected!
+For 36 trigger activated!
+For 36 Trojan detected!
+For 55 trigger activated!
+For 55 Trojan detected!
+For 73 trigger activated!
+For 73 Trojan detected!
+For 11 trigger activated!
+For 65 trigger activated!
+For 65 Trojan detected!
+For 11 Trojan detected!
+For 15 trigger activated!
+For 15 Trojan detected!
+For 29 trigger activated!
+For 29 Trojan detected!
+For 28 trigger activated!
+For 28 Trojan detected!
+For 58 trigger activated!
+For 58 Trojan detected!
+For 59 trigger activated!
+For 59 Trojan detected!
+For 27 trigger activated!
+For 27 Trojan detected!
+For 35 trigger activated!
+For 35 Trojan detected!
+For 2 trigger activated!
+For 2 Trojan detected!
+For 51 trigger activated!
+For 51 Trojan detected!
+For 40 trigger activated!
+For 40 Trojan detected!
+For 17 trigger activated!
+For 17 Trojan detected!
+For 13 trigger activated!
+For 13 Trojan detected!
+For 9 trigger activated!
+For 9 Trojan detected!
+For 19 trigger activated!
+For 19 Trojan detected!
+For 44 trigger activated!
+For 44 Trojan detected!
+For 38 trigger activated!
+For 38 Trojan detected!
+For 45 trigger activated!
+For 45 Trojan detected!
+For 43 trigger activated!
+For 43 Trojan detected!
+For 16 trigger activated!
+For 16 Trojan detected!
+For 54 trigger activated!
+For 54 Trojan detected!
+For 18 trigger activated!
+For 14 trigger activated!
+For 14 Trojan detected!
+For 34 trigger activated!
+For 34 Trojan detected!
+For 41 trigger activated!
+For 41 Trojan detected!
+For 3 trigger activated!
+For 3 Trojan detected!
+For 21 trigger activated!
+For 21 Trojan detected!
+For 47 trigger activated!
+For 47 Trojan detected!
+For 10 trigger activated!
+For 10 Trojan detected!
+For 30 trigger activated!
+For 30 Trojan detected!
+For 1 trigger activated!
+For 1 Trojan detected!
+For 32 trigger activated!
+For 32 Trojan detected!
+For 12 trigger activated!
+For 12 Trojan detected!
+Took 67.05s for c6288

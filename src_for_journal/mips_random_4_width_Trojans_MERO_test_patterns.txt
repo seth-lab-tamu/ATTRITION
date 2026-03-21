@@ -1,0 +1,7 @@
+For testing set patterns
+Technique: MERO
+Num_pats: 296
+Benchmark: mips
+Total number of Trojans: 100
+Trigger activation rate: 0%
+Attack success rate: 100%

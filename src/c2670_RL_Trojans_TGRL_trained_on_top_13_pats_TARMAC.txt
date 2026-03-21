@@ -1,0 +1,97 @@
+Technique: TGRL
+Benchmark: c2670
+Number of test patterns: 5306
+For original netlist
+For Trojan netlist number 46
+For Trojan netlist number 17
+For Trojan netlist number 23
+For Trojan netlist number 32
+For Trojan netlist number 9
+For Trojan netlist number 35
+For Trojan netlist number 41
+For Trojan netlist number 39
+For Trojan netlist number 38
+For Trojan netlist number 36
+For Trojan netlist number 40
+For Trojan netlist number 37
+For Trojan netlist number 29
+For Trojan netlist number 3
+For Trojan netlist number 2
+For Trojan netlist number 6
+For Trojan netlist number 7
+For Trojan netlist number 1
+For Trojan netlist number 0
+For Trojan netlist number 8
+For Trojan netlist number 42
+For Trojan netlist number 10
+For Trojan netlist number 44
+For Trojan netlist number 34
+For Trojan netlist number 47
+For Trojan netlist number 43
+For Trojan netlist number 5
+For Trojan netlist number 31
+For Trojan netlist number 4
+For Trojan netlist number 45
+For Trojan netlist number 48
+For Trojan netlist number 22
+For Trojan netlist number 14
+For Trojan netlist number 11
+For Trojan netlist number 27
+For Trojan netlist number 24
+For Trojan netlist number 26
+For Trojan netlist number 12
+For Trojan netlist number 15
+For Trojan netlist number 30
+For Trojan netlist number 20
+For Trojan netlist number 33
+For Trojan netlist number 16
+For Trojan netlist number 13
+For Trojan netlist number 18
+For Trojan netlist number 28
+For Trojan netlist number 25
+For Trojan netlist number 19
+For Trojan netlist number 21
+For 16 trigger activated!
+For 16 Trojan detected!
+For 20 trigger activated!
+For 10 trigger activated!
+For 6 trigger activated!
+For 4 trigger activated!
+For 4 Trojan detected!
+For 19 trigger activated!
+For 35 trigger activated!
+For 23 trigger activated!
+For 11 trigger activated!
+For 5 trigger activated!
+For 5 Trojan detected!
+For 0 trigger activated!
+For 33 trigger activated!
+For 1 trigger activated!
+For 1 Trojan detected!
+For 7 trigger activated!
+For 7 Trojan detected!
+For 29 trigger activated!
+For 47 trigger activated!
+For 18 trigger activated!
+For 44 trigger activated!
+For 21 trigger activated!
+For 21 Trojan detected!
+For 9 trigger activated!
+For 9 Trojan detected!
+For 45 trigger activated!
+For 22 trigger activated!
+For 30 trigger activated!
+For 8 trigger activated!
+For 41 trigger activated!
+For 26 trigger activated!
+For 40 trigger activated!
+For 38 trigger activated!
+For 43 trigger activated!
+For 28 trigger activated!
+For 46 trigger activated!
+For 32 trigger activated!
+For 36 trigger activated!
+For 25 trigger activated!
+For 39 trigger activated!
+For 14 trigger activated!
+Took 131.61s for c2670

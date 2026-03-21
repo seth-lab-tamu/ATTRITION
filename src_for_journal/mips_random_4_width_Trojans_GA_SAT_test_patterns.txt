@@ -1,0 +1,168 @@
+For testing set patterns
+Entered pid 0
+Entered pid 2
+Entered pid 1
+Entered pid 4
+Entered pid 7
+Entered pid 8
+Entered pid 11
+Entered pid 9
+Entered pid 6
+Entered pid 3
+Entered pid 10
+Entered pid 24
+Entered pid 5
+Entered pid 12
+Entered pid 23
+Entered pid 26
+Entered pid 25
+Entered pid 18
+Entered pid 19
+Entered pid 15
+Entered pid 16
+Entered pid 32
+Entered pid 13
+Entered pid 17
+Entered pid 60
+Entered pid 14
+Entered pid 20
+Entered pid 59
+Entered pid 33
+Entered pid 29
+Entered pid 36
+Entered pid 27
+Entered pid 31
+Entered pid 50
+Entered pid 35
+Entered pid 45
+Entered pid 21
+Entered pid 39
+Entered pid 62
+Entered pid 30
+Entered pid 28
+Entered pid 56
+Entered pid 49
+Entered pid 52
+Entered pid 48
+Entered pid 43
+Entered pid 38
+Entered pid 46
+Entered pid 22
+Entered pid 47
+Entered pid 37
+Entered pid 41
+Entered pid 44
+Entered pid 61
+Entered pid 57
+Entered pid 42
+Entered pid 40
+Entered pid 58
+Entered pid 34
+Entered pid 63
+Entered pid 51
+Entered pid 53
+Entered pid 54
+Entered pid 55
+Runtime for pid 60 :  12.926469802856445  seconds
+Runtime for pid 62 :  12.914995193481445  seconds
+Runtime for pid 61 :  12.909347295761108  seconds
+Runtime for pid 59 :  13.312042474746704  seconds
+Runtime for pid 57 :  13.374080181121826  seconds
+Runtime for pid 55 :  13.340497016906738  seconds
+Runtime for pid 53 :  13.532089471817017  seconds
+Runtime for pid 56 :  13.601410627365112  seconds
+Runtime for pid 54 :  13.651201963424683  seconds
+Runtime for pid 58 :  13.70225214958191  seconds
+Runtime for pid 47 :  13.73334527015686  seconds
+Runtime for pid 52 :  13.7579026222229  seconds
+Runtime for pid 49 :  13.89115309715271  seconds
+Runtime for pid 46 :  13.990604877471924  seconds
+Runtime for pid 51 :  13.981163024902344  seconds
+Runtime for pid 41 :  14.170138835906982  seconds
+Runtime for pid 50 :  14.259207963943481  seconds
+Runtime for pid 48 :  14.273640155792236  seconds
+Runtime for pid 43 :  14.581254005432129  seconds
+Runtime for pid 44 :  14.588550806045532  seconds
+Runtime for pid 45 :  14.657380104064941  seconds
+Runtime for pid 63 :  14.620922327041626  seconds
+Runtime for pid 42 :  14.64628291130066  seconds
+Runtime for pid 39 :  14.844991445541382  seconds
+Runtime for pid 38 :  14.931083679199219  seconds
+Runtime for pid 34 :  15.048757314682007  seconds
+Runtime for pid 36 :  15.134764909744263  seconds
+Runtime for pid 40 :  15.061647891998291  seconds
+Runtime for pid 33 :  15.209564924240112  seconds
+Runtime for pid 32 :  15.350382328033447  seconds
+Runtime for pid 37 :  15.241718292236328  seconds
+Runtime for pid 26 :  15.442749261856079  seconds
+Runtime for pid 24 :  15.499238729476929  seconds
+Runtime for pid 28 :  15.351871967315674  seconds
+Runtime for pid 30 :  15.398331642150879  seconds
+Runtime for pid 29 :  15.460960149765015  seconds
+Runtime for pid 35 :  15.473619222640991  seconds
+Runtime for pid 27 :  15.523018598556519  seconds
+Runtime for pid 31 :  15.603078126907349  seconds
+Runtime for pid 22 :  15.666998863220215  seconds
+Runtime for pid 25 :  16.121414184570312  seconds
+Runtime for pid 12 :  16.176557064056396  seconds
+Runtime for pid 21 :  16.0232253074646  seconds
+Runtime for pid 23 :  16.212509155273438  seconds
+Runtime for pid 16 :  16.18751621246338  seconds
+Runtime for pid 20 :  16.152155876159668  seconds
+Runtime for pid 19 :  16.28648352622986  seconds
+Runtime for pid 15 :  16.3022940158844  seconds
+Runtime for pid 17 :  16.322314977645874  seconds
+Runtime for pid 11 :  16.545852422714233  seconds
+Runtime for pid 9 :  16.588603496551514  seconds
+Runtime for pid 18 :  16.44891619682312  seconds
+Runtime for pid 13 :  16.420963048934937  seconds
+Runtime for pid 14 :  16.46926784515381  seconds
+Runtime for pid 10 :  16.83716344833374  seconds
+Runtime for pid 5 :  16.802679777145386  seconds
+Runtime for pid 2 :  17.05553960800171  seconds
+Runtime for pid 7 :  17.012873888015747  seconds
+Runtime for pid 8 :  17.13464641571045  seconds
+Runtime for pid 1 :  17.220365285873413  seconds
+Runtime for pid 6 :  17.228808164596558  seconds
+Runtime for pid 4 :  17.35826301574707  seconds
+Runtime for pid 0 :  17.62608790397644  seconds
+Runtime for pid 3 :  17.42321276664734  seconds
+Global Runtime:  25.4847309589386  seconds
+Technique: GA_SAT
+Num_pats: 10000
+Benchmark: mips
+Total number of Trojans: 100
+For 0 trigger activated!
+For 1 trigger activated!
+For 3 trigger activated!
+For 10 trigger activated!
+For 16 trigger activated!
+For 17 trigger activated!
+For 25 trigger activated!
+For 27 trigger activated!
+For 29 trigger activated!
+For 33 trigger activated!
+For 36 trigger activated!
+For 37 trigger activated!
+For 38 trigger activated!
+For 40 trigger activated!
+For 41 trigger activated!
+For 43 trigger activated!
+For 46 trigger activated!
+For 49 trigger activated!
+For 50 trigger activated!
+For 52 trigger activated!
+For 56 trigger activated!
+For 63 trigger activated!
+For 66 trigger activated!
+For 68 trigger activated!
+For 72 trigger activated!
+For 80 trigger activated!
+For 84 trigger activated!
+For 86 trigger activated!
+For 88 trigger activated!
+For 90 trigger activated!
+For 91 trigger activated!
+For 99 trigger activated!
+Trigger activation rate: 32%
+Attack success rate: 68%

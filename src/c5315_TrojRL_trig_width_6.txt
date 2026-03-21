@@ -1,0 +1,153 @@
+Technique: TrojRL
+Benchmark: c5315
+Number of test patterns: 1585
+For original netlist
+For Trojan netlist number 4
+For Trojan netlist number 0
+For Trojan netlist number 33
+For Trojan netlist number 16
+For Trojan netlist number 8
+For Trojan netlist number 20
+For Trojan netlist number 7
+For Trojan netlist number 5
+For Trojan netlist number 1
+For Trojan netlist number 39
+For Trojan netlist number 12
+For Trojan netlist number 29
+For Trojan netlist number 13
+For Trojan netlist number 14
+For Trojan netlist number 40
+For Trojan netlist number 15
+For Trojan netlist number 38
+For Trojan netlist number 24
+For Trojan netlist number 10
+For Trojan netlist number 42
+For Trojan netlist number 35
+For Trojan netlist number 36
+For Trojan netlist number 9
+For Trojan netlist number 34
+For Trojan netlist number 31
+For Trojan netlist number 21
+For Trojan netlist number 44
+For Trojan netlist number 19
+For Trojan netlist number 32
+For Trojan netlist number 59
+For Trojan netlist number 52
+For Trojan netlist number 18
+For Trojan netlist number 37
+For Trojan netlist number 23
+For Trojan netlist number 3
+For Trojan netlist number 30
+For Trojan netlist number 2
+For Trojan netlist number 11
+For Trojan netlist number 45
+For Trojan netlist number 51
+For Trojan netlist number 55
+For Trojan netlist number 56
+For Trojan netlist number 27
+For Trojan netlist number 26
+For Trojan netlist number 61
+For Trojan netlist number 41
+For Trojan netlist number 67
+For Trojan netlist number 17
+For Trojan netlist number 54
+For Trojan netlist number 57
+For Trojan netlist number 58
+For Trojan netlist number 72
+For Trojan netlist number 50
+For Trojan netlist number 6
+For Trojan netlist number 71
+For Trojan netlist number 47
+For Trojan netlist number 25
+For Trojan netlist number 68
+For Trojan netlist number 22
+For Trojan netlist number 86
+For Trojan netlist number 49
+For Trojan netlist number 60
+For Trojan netlist number 63
+For Trojan netlist number 65
+For Trojan netlist number 48
+For Trojan netlist number 64
+For Trojan netlist number 53
+For Trojan netlist number 84
+For Trojan netlist number 85
+For Trojan netlist number 62
+For Trojan netlist number 28
+For Trojan netlist number 66
+For Trojan netlist number 43
+For Trojan netlist number 46
+For Trojan netlist number 93
+For Trojan netlist number 76
+For Trojan netlist number 83
+For Trojan netlist number 92
+For Trojan netlist number 96
+For Trojan netlist number 69
+For Trojan netlist number 89
+For Trojan netlist number 98
+For Trojan netlist number 90
+For Trojan netlist number 70
+For Trojan netlist number 87
+For Trojan netlist number 78
+For Trojan netlist number 75
+For Trojan netlist number 91
+For Trojan netlist number 80
+For Trojan netlist number 82
+For Trojan netlist number 74
+For Trojan netlist number 77
+For Trojan netlist number 99
+For Trojan netlist number 81
+For Trojan netlist number 95
+For Trojan netlist number 94
+For Trojan netlist number 79
+For Trojan netlist number 88
+For Trojan netlist number 97
+For Trojan netlist number 73
+For 99 trigger activated!
+For 96 trigger activated!
+For 96 Trojan detected!
+For 98 trigger activated!
+For 98 Trojan detected!
+For 84 trigger activated!
+For 84 Trojan detected!
+For 83 trigger activated!
+For 85 trigger activated!
+For 78 trigger activated!
+For 73 trigger activated!
+For 73 Trojan detected!
+For 74 trigger activated!
+For 74 Trojan detected!
+For 68 trigger activated!
+For 68 Trojan detected!
+For 58 trigger activated!
+For 65 trigger activated!
+For 65 Trojan detected!
+For 66 trigger activated!
+For 66 Trojan detected!
+For 64 trigger activated!
+For 64 Trojan detected!
+For 63 trigger activated!
+For 47 trigger activated!
+For 47 Trojan detected!
+For 45 trigger activated!
+For 45 Trojan detected!
+For 48 trigger activated!
+For 48 Trojan detected!
+For 46 trigger activated!
+For 41 trigger activated!
+For 29 trigger activated!
+For 29 Trojan detected!
+For 16 trigger activated!
+For 14 trigger activated!
+For 14 Trojan detected!
+For 27 trigger activated!
+For 27 Trojan detected!
+For 15 trigger activated!
+For 23 trigger activated!
+For 23 Trojan detected!
+For 18 trigger activated!
+For 10 trigger activated!
+For 8 trigger activated!
+For 8 Trojan detected!
+For 1 trigger activated!
+For 1 Trojan detected!
+Took 31.55s for c5315

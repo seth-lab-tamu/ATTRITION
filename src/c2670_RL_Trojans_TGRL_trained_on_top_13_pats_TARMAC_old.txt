@@ -1,0 +1,29 @@
+Technique: TGRL
+Benchmark: c2670
+Number of test patterns: 5306
+For original netlist
+For Trojan netlist number 1
+For Trojan netlist number 6
+For Trojan netlist number 11
+For Trojan netlist number 0
+For Trojan netlist number 2
+For Trojan netlist number 3
+For Trojan netlist number 5
+For Trojan netlist number 7
+For Trojan netlist number 10
+For Trojan netlist number 9
+For Trojan netlist number 4
+For Trojan netlist number 12
+For Trojan netlist number 8
+For 5 trigger activated!
+For 5 Trojan detected!
+For 10 trigger activated!
+For 10 Trojan detected!
+For 6 trigger activated!
+For 12 trigger activated!
+For 7 trigger activated!
+For 1 trigger activated!
+For 1 Trojan detected!
+For 3 trigger activated!
+For 2 trigger activated!
+Took 105.18s for c2670
